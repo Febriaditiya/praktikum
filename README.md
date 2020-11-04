@@ -80,17 +80,17 @@
  1.fungsi `eval()` berfungsi untuk memparsing (menguraikan) string ekspresi python murni.
   fungsi `eval()` sering digunakan untuk mengevaluasi input dari user, input dari user via keyboard hasilnya adalah string walaupun yang kita input adalah bilangan. fungsi `eval()` akan menentukan tipe data yang sesuai untuk kita.
 
- ![lab1.png]/(gambar2/lab1.png)
+  ![1.png](/gambar2/1.png)
 
  2.Setiap data yang di inputkan oleh user aka masuk ke variable.
 
- ![lab2.png]/(gambar2/lab2.png)
+  ![2.png](/gambar2/2.png)
 
  3.Untuk perhitungan kita menggunakan operasi aritmatika.
    
- ![lab3.png]/(gambar2/lab3.png)
+  ![3.png](/gambar2/3.png)
 
- ![lab4.png]/(gambar2/lab4.png)
+  ![4.png](/gambar2/4.png)
 
  (`%=`) = Melakukan operasi sisa bagi pengeoperan di kanan dengan pengoperan di kiri dan hasilnya di simpan di pengoperan yang dikiri.
 
@@ -100,15 +100,15 @@
 
   `integer` Menyatakan bilangan bulat.
 
- ![lab5.png]/(gambar2/lab5.png)
+  ![5.png](/gambar2/5.png)
 
   Jadi dirubah dulu tipe data nya karna yang diminta/di input adalah `integer`
 
  5.dan hasil output dari bilangan operator nya.
 
- ![lab6.png]/(gambar2/lab6.png)
+  ![6.png](/gambar2/6.png)
 
 ## Bentuk project nya
  
- ![lab7.png]/(gambar2/lab7.png)
+  ![7.png](/gambar2/7.png)
 
