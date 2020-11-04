@@ -7,11 +7,11 @@
  
 1.Pertama buka software Google Crome  
 
- ![01.png](/gambar/01.png)
+ ![01.png](/gambar1/01.png)
 
 2.Kemudian **cari IDE Spyder**
 
- ![02.png](/gambar/02.png)
+ ![02.png](/gambar1/02.png)
 
 3.Kemudian instal "tunggu hingga beres"
  
@@ -21,31 +21,31 @@
    
    2.Maka akan tampil sebagai berikut.
 
- ![03.png](/gambar/03.png)
+ ![03.png](/gambar1/03.png)
 
  3.Kemudian tuliskan code sebagai berikut.
 
- ![04.png](/gambar/04.png)
+ ![04.png](/gambar1/04.png)
 
  Untuk Output ketik `print()`
 
- ![05.png](/gambar/05.png)
+ ![05.png](/gambar1/05.png)
 
  4.Kemudian klik `Run atau bisa klik f5` maka akan seperti gambar berikut.
 
- ![06.png](/gambar/06.png)
+ ![06.png](/gambar1/06.png)
  
  5.Masukkan identitas user klik 'enter'
 
- ![07.png](/gambar/07.png)
+ ![07.png](/gambar1/07.png)
 
  6.Selamat biodata sudah berjalan
 
- ![08.png](/gambar/08.png)
+ ![08.png](/gambar1/08.png)
 
  7.Kemudian **save as** di folder yang kamu mau.
 
- ![09.png](/gambar/09.png)
+ ![09.png](/gambar1/09.png)
 
  jangan lupa untuk penamaan **"nama file.py"**
 
@@ -77,37 +77,38 @@
 
 ## Prakteknya
 
-1.fungsi `eval()` berfungsi untuk memparsing (menguraikan) string ekspresi python murni.
+ 1.fungsi `eval()` berfungsi untuk memparsing (menguraikan) string ekspresi python murni.
   fungsi `eval()` sering digunakan untuk mengevaluasi input dari user, input dari user via keyboard hasilnya adalah string walaupun yang kita input adalah bilangan. fungsi `eval()` akan menentukan tipe data yang sesuai untuk kita.
 
- ![lab1.png]/(gambar/lab1.png)
+ ![lab1.png]/(gambar2/lab1.png)
 
-2.Setiap data yang di inputkan oleh user aka masuk ke variable.
+ 2.Setiap data yang di inputkan oleh user aka masuk ke variable.
 
- ![lab2.png]/(gambar/lab2.png)
+ ![lab2.png]/(gambar2/lab2.png)
 
-3.Untuk perhitungan kita menggunakan operasi aritmatika.
+ 3.Untuk perhitungan kita menggunakan operasi aritmatika.
    
- ![lab3.png]/(gambar/lab3.png)
+ ![lab3.png]/(gambar2/lab3.png)
 
- ![lab4.png]/(gambar/lab4.png)
+ ![lab4.png]/(gambar2/lab4.png)
 
  (`%=`) = Melakukan operasi sisa bagi pengeoperan di kanan dengan pengoperan di kiri dan hasilnya di simpan di pengoperan yang dikiri.
 
-4.Merubah tipe data dari `string` ke `integer`
+ 4.Merubah tipe data dari `string` ke `integer`
   
   `string` menyatakan karakter/kalimat bisa berupa huruf angka, dll (diapit dengan tanda`"` atau `'`)
 
   `integer` Menyatakan bilangan bulat.
 
- ![lab5.png]/(gambar/lab5.png)
+ ![lab5.png]/(gambar2/lab5.png)
 
   Jadi dirubah dulu tipe data nya karna yang diminta/di input adalah `integer`
 
-5.dan hasil output dari bilangan operator nya.
+ 5.dan hasil output dari bilangan operator nya.
 
- ![lab6.png]/(gambar/lab6.png)
+ ![lab6.png]/(gambar2/lab6.png)
 
 ## Bentuk project nya
  
- ![lab7.PNGimage]/(gambar/lab7.PNGimage)
+ ![lab7.png]/(gambar2/lab7.png)
+
