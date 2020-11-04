@@ -109,4 +109,4 @@
 
 ## Bentuk project nya
  
- ![lab7.png]/(gambar/lab7.png)
+ ![lab7.png]/(gambar/lab7.png)# praktikum
